@@ -1,0 +1,54 @@
+body{
+  background: url(../img/img-verduras.jpg);
+  background-size: auto;
+  background-attachment: fixed;
+}
+
+
+.contenedor-principal{
+  width: 80%;
+  background: rgba(127, 140, 141, 0.85);
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h6{
+  text-align: right;
+}
+
+.columna-izquierda{
+  background: #FAD7A0;
+}
+
+.columna-derecha{
+  background: #F7DC6F;
+  
+
+}
+
+.favoritos{
+  padding: 5px;
+}
+
+.foto-central{
+  width: 100%;
+  margin-bottom: 5%;
+  border: 2px solid white;
+}
+
+.texto-central{
+  text-align: justify;
+}
+
+.media-object{
+  border: 1px solid white;
+  padding: 3px;
+  text-align: center;
+}
+
+.foto-usuario{
+  width: 50px;
+  height: 50px;
+}
